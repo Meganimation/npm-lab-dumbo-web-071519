@@ -21,5 +21,6 @@
   "homepage": "https://github.com/Meganimation/npm-lab-dumbo-web-071519#readme",
   "dependencies": {
     "learn-browser": "^0.1.24"
-  }
+  },
+  "devDependencies": {}
 }
